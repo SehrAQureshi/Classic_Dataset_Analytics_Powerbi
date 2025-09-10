@@ -1,4 +1,4 @@
-# 🚀 Multi-Vehicle Sales & Profit Analytics (Power BI)
+# 🚀 Classic Dataset Analytics (Power BI)
 
 ## 📖 Project Overview
 Developed an **end-to-end analytics solution** in **Power BI** to evaluate multi-vehicle sales performance across **Classic Cars, Motorcycles, Trucks, Buses, Planes, Ships, and Trains**.  
